@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(255, 100, 100);
+    font-family: "Verdana", "DeJaVu Sans", sans-serif;
+}
+
+.adjust-font-size {
+    font-size: 52px;
+}
+
+#two {
+    color: green;
+    font-size: 36px;
+}
+
+#four {
+    color: purple;
+    font-size: 36px;
+    font-family:'Times New Roman', Times, serif;
+}

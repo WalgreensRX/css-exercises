@@ -1,0 +1,11 @@
+.container .text {
+    background-color: purple;
+    color: black; 
+    font-size: 18px;
+    font-family: Helvetica, "Times New Roman", serif;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    border: 2px solid black;
+}
